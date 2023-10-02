@@ -5,3 +5,4 @@
 - alt tags added to images
 - html formatted
 - title changed in head
+- code is located in index.html and in assets/css/style.css
